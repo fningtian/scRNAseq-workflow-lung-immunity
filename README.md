@@ -3,7 +3,11 @@
 ## Overview
 This is a repository that hosts code for an ongoing project of Dynamic responses of human lung innate and adaptive immune cells. The research focues on 1) uncovering treatment-, timepoint- and cell-specific effects of innate and adaptive receptor stimulation on lung immune cells, and 2) how these dynamic responses intersect with genes the relevance genes at asthma rick loci nominated from GWAS studies. 
 
-![Graphical bbstract](graphical_abstract/scRNAseq_lung.png)
+
+![Graphical abstract](graphical_abstract/scRNAseq_lung.png)
+
+*Graphical representation created by Funing Tian*
+
 
 ## Workflow Description
 Cells were processed for scRNAseq on a Chromium X system provided by 10XGenomics. Libraries include 1) gene expression and hashtag, and 2) gene expression and antibody capture. 
