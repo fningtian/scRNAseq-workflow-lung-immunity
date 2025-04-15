@@ -6,8 +6,7 @@ This is a repository that hosts code for an ongoing project of Dynamic responses
 
 ![Graphical abstract](graphical_abstract/scRNAseq_lung.png)
 
-*Graphical representation created by Funing Tian*
-
+*Graphical abstract © Funing Tian, 2025. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ## Workflow Description
 Cells were processed for scRNAseq on a Chromium X system provided by 10XGenomics. Libraries include 1) gene expression and hashtag, and 2) gene expression and antibody capture. 
