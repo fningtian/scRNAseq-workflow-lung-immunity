@@ -24,9 +24,11 @@ Note: This repository does not include scripts for running CellRanger, which was
 - Differentially expressed genes comparing each treated condition with unstimulated condition per cell type: integration_de.R
 - Visualizations with ComplexHeatmap: integration_de_ComplexHeatmap.R
 8. **Gene ontology**: integration_de_gprofiler.R
+  
 Only differentially expressed genes are considered. 
+
 9. Log2-fold changes of gene expression comparing **blood and lung immune responses**: integration_blood_lung_log2.R
-10. **Cell-to-cell communication**, including signaling pathways and ligand-receptor pairs
+10. **Cell-to-cell communication**, including signaling pathways and ligand-receptor pairs: integration_cellchat.R
 Visualizations include the following.
 - circle plots showing the inferred intercellular communication network
 - heatmaps showing the strength of incoming and outgoing signals of certain cell groups
