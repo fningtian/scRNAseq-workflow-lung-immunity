@@ -38,9 +38,11 @@ integration_genes_of_interest
 A detailed description of the methods and results is available in the [preprint](https://www.biorxiv.org/content/10.1101/2024.09.20.614132v1.abstract) titled "Dynamic responses of human lung innate and adaptive immune cells highlight the roles of genes at asthma risk loci". 
 
 ## Requirements 
-Please refer to session_info_R.txt for the list of R packages and their versions used in the analysis.
+Please refer to [session_info_R.txt](session_info_R.txt) for the list of R packages and their versions used in the analysis.
 
 The Jupyter Notebook is written in Python (requires Python 3.x). The main Python packages used include: numpy, pandas, matplotlib, seaborn, celltypist
 
-## Contact
-Funing Tian: fning.tian@gmail.com
+## Author & Contact
+Funing Tian
+
+Email: fning.tian@gmail.com
